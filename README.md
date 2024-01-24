@@ -1,3 +1,6 @@
+
+link to my website: https://birajrai100.github.io/news-homepage/
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
